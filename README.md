@@ -1,1 +1,1 @@
-# mediUSB
+<h1 align="center">mediUSB</h1>
