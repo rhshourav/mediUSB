@@ -1,0 +1,28 @@
+Exist: N  
+Background O: "Y:\System\background.png" 
+Background N: "X:\Windows\Web\Wallpaper\Windows\img0.jpg" 
+Logiciel: "Y:\System\WallpaperChanger\clwc.exe" 
+Exist: N  
+Background Y: "Y:\System\background.png" 
+Background N: "X:\Windows\Web\Wallpaper\Windows\img0.jpg" 
+Logiciel: "Y:\System\WallpaperChanger\clwc.exe" 
+Exist: N  
+Background Y: "Y:\System\background.png" 
+Background N: "X:\Windows\Web\Wallpaper\Windows\img0.jpg" 
+Logiciel: "Y:\System\WallpaperChanger\clwc.exe" 
+Exist: N  
+Background Y: "Y:\System\background.png" 
+Background N: "X:\Windows\Web\Wallpaper\Windows\img0.jpg" 
+Logiciel: "Y:\System\WallpaperChanger\clwc.exe" 
+Exist: Y  
+Background Y: "Y:\System\background.png" 
+Background N: "X:\Windows\Web\Wallpaper\Windows\img0.jpg" 
+Logiciel: "Y:\System\WallpaperChanger\clwc.exe" 
+Exist: N  
+Background Y: "Y:\System\background.png" 
+Background N: "X:\Windows\Web\Wallpaper\Windows\img0.jpg" 
+Logiciel: "Y:\System\WallpaperChanger\clwc.exe" 
+Exist: N  
+Background Y: "Y:\System\background.png" 
+Background N: "X:\Windows\Web\Wallpaper\Windows\img0.jpg" 
+Logiciel: "Y:\System\WallpaperChanger\clwc.exe" 
