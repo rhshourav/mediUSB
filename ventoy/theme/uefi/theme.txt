@@ -1,0 +1,155 @@
+
+desktop-image: "background.png"
+title-text: " "
+title-font: "ascii"
+title-color: "#000000"
+message-font: "ascii"
+message-color: "#f2f2f2"
+terminal-box: "terminal_box_*.png"
+
++ hbox{ 
+    left = 32%
+    top = 77%
+    width = 30%
+    + label {text = "@VTOY_MEM_DISK@" color = "#ffa200" align = "left"} 
+}
+
+
++ hbox{ 
+    left = 90%
+    top = 30 
+    width = 10%
+    height = 25
+    + label {text = "@VTOY_ISO_RAW@" color = "red" align = "left"} 
+}
+
+
++ hbox{ 
+    left = 90%
+    top = 55 
+    width = 10%
+    height = 25
+    + label {text = "@VTOY_ISO_UEFI_DRV@" color = "red" align = "left"} 
+}
+
++ hbox{ 
+    left = 60%
+    top = 77%
+    width = 10%
+    height = 25
+    + label {text = "@VTOY_WIMBOOT_MODE@" color = "#ffa200" align = "right"}
+}
+
+
+
++ hbox {
+    top = 22%
+    left = 23%
+    width = 27%
+    + vbox {
+        + label {text = "v21.12 - Made By Jayro, MON5TERMATT, AAA3A." color = "#ffa200"}
+    }
+}
+
++ boot_menu {
+  text = " "
+  left = 20%
+  width = 60%
+  top = 20%
+  height = 60%
+  menu_pixmap_style = "menu_*.png"
+  item_font = "ascii"  
+  item_color = "#ffffff"  
+  item_height = 32
+  item_spacing = 5
+  item_padding = 7
+  selected_item_font = "ascii"
+  selected_item_color= "#f2f2f2"
+  selected_item_pixmap_style = "select_*.png"
+  item_icon_space = 20
+  scrollbar = true
+  scrollbar_width = 10
+  scrollbar_thumb = "slider_*.png"
+}
+
++ progress_bar {
+  id = "__timeout__"
+  text = "@TIMEOUT_NOTIFICATION_SHORT@"
+  left = 95%
+  width = 48
+  top = 95%
+  height = 48
+  text_color = "#f2f2f2"
+  bar_style = "*"
+  highlight_style = "*"
+}
+
++ hbox {
+    left = 35%
+	top = 90%
+    width = 30%
+    + vbox {
+        + label {text = "[F1]" color = "white"}
+		+ image {file = "icons/mem.png"}		
+    }
+}
+
++ hbox {
+    left = 40%
+	top = 90%
+    width = 30%
+    + vbox {
+        + label {text = "[F2]" color = "white"}
+        + image {file = "icons/logout.png"}
+    }
+}
+
++ hbox {
+    left = 45%
+	top = 90%
+    width = 30%
+    + vbox {
+        + label {text = "[F3]" color = "white"}
+        + image {file = "icons/sort.png"}
+    }
+}	
+
++ hbox {
+    left = 50%
+	top = 90%
+    width = 30%
+    + vbox {
+        + label {text = "[F4]" color = "white"}
+        + image {file = "icons/hdd.png"}
+    }
+}
+
++ hbox {
+    left = 55%
+    top = 90%
+    width = 30%
+    + vbox {
+        + label {text = "[F5]" color = "white"}
+        + image {file = "icons/ventoy.png"}
+    }
+}
+
++ hbox {
+    left = 60%
+    top = 90%
+    width = 30%
+    + vbox {
+        + label {text = "[F6]" color = "white"}
+        + image {file = "icons/txt.png"}
+    }
+}
+
++ hbox {
+    left = 65%
+    top = 90%
+    width = 30%
+    + vbox {
+        + label {text = "[F7]" color = "white"}
+        + image {file = "icons/mode_text.png"}
+    }
+}
