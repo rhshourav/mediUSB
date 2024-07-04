@@ -54,12 +54,12 @@
 - **[Ultimate Boot CD](https://github.com/rhshourav/mediUSB/tree/main/Diagnostic_Tools/Ultimate_BootCD)**
   - **Ultimate_BootCD.iso**: A comprehensive collection of diagnostic and repair tools for hard drives, memory, and other system components.
 
-## Live Operating Systems
-- **Active@ Data Studio**
+## [Live Operating Systems](https://github.com/rhshourav/mediUSB/tree/main/Live_Operating_Systems)
+- **[Active@ Data Studio](https://github.com/rhshourav/mediUSB/tree/main/Live_Operating_Systems/Active%40_Data_Studio)**
   - **Active@_Data_Studio.iso**: A suite of disk utilities that includes data recovery, disk imaging, and secure data erasure tools.
-- **Mini Windows**
+- **[Mini Windows](https://github.com/rhshourav/mediUSB/tree/main/Live_Operating_Systems/Mini_Windows)**
   - **Mini_Windows_10.wim**: A lightweight, bootable version of Windows 10 that allows you to troubleshoot and repair your main Windows installation.
-- **SystemRescue**
+- **[SystemRescue](https://github.com/rhshourav/mediUSB/tree/main/Live_Operating_Systems/SystemRescue)**
   - **SystemRescue.iso**: A Linux-based system rescue toolkit designed to repair unbootable or damaged computer systems and recover data.
 
 ## Partition Tools
