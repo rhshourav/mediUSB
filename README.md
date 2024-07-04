@@ -44,14 +44,14 @@
 - **[Super GRUB2 Disk](https://github.com/rhshourav/mediUSB/tree/main/Boot_Repair/Super_GRUB2_Disk)**
   - **Super_GRUB2_Disk.iso**: A bootable disk that helps you to boot into your system when you cannot do so due to bootloader issues.
 
-## Diagnostic Tools
-- **HDAT2**
+## [Diagnostic Tools](https://github.com/rhshourav/mediUSB/tree/main/Diagnostic_Tools)
+- **[HDAT2](https://github.com/rhshourav/mediUSB/tree/main/Diagnostic_Tools/HDAT2)**
   - **HDAT2.iso**: A diagnostic tool to test and repair hard drives and SSDs. It can detect and fix bad sectors and other disk issues.
-- **MemTest86**
+- **[MemTest86](https://github.com/rhshourav/mediUSB/tree/main/Diagnostic_Tools/MemTest86%2B)**
   - **MemTest86+.iso**: A memory testing tool that checks your system's RAM for errors. It helps diagnose faulty RAM modules.
-- **Spinrite**
+- **[Spinrite](https://github.com/rhshourav/mediUSB/tree/main/Diagnostic_Tools/Spinrite)**
   - **Spinrite.iso**: A hard disk and SSD maintenance and recovery utility that performs data recovery and surface analysis.
-- **Ultimate Boot CD**
+- **[Ultimate Boot CD](https://github.com/rhshourav/mediUSB/tree/main/Diagnostic_Tools/Ultimate_BootCD)**
   - **Ultimate_BootCD.iso**: A comprehensive collection of diagnostic and repair tools for hard drives, memory, and other system components.
 
 ## Live Operating Systems
