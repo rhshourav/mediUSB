@@ -62,22 +62,22 @@
 - **[SystemRescue](https://github.com/rhshourav/mediUSB/tree/main/Live_Operating_Systems/SystemRescue)**
   - **SystemRescue.iso**: A Linux-based system rescue toolkit designed to repair unbootable or damaged computer systems and recover data.
 
-## Partition Tools
-- **Acronis Disk Director**
+## [Partition Tools](https://github.com/rhshourav/mediUSB/tree/main/Partition_Tools)
+- **[Acronis Disk Director](https://github.com/rhshourav/mediUSB/tree/main/Partition_Tools/AOMEI_Partition_Assistant)**
   - **Acronis_Disk_Director.wim**: A powerful partition management tool that helps you create, resize, move, and merge partitions without losing data.
-- **AOMEI Partition Assistant**
+- **[AOMEI Partition Assistant](https://github.com/rhshourav/mediUSB/tree/main/Partition_Tools/Acronis_Disk_Director)**
   - **AOMEI_Partition_Assistant.wim**: A reliable partition manager that offers features like partition resizing, merging, cloning, and conversion.
-- **DiskGenius**
+- **[DiskGenius](https://github.com/rhshourav/mediUSB/tree/main/Partition_Tools/DiskGenius)**
   - **DiskGenius.wim**: A comprehensive tool for managing partitions, recovering lost files, and backing up data.
-- **EaseUS Partition Master**
+- **[EaseUS Partition Master](https://github.com/rhshourav/mediUSB/tree/main/Partition_Tools/EaseUS_Partition_Master)**
   - **EaseUS_Partition_Master.wim**: An all-in-one partition manager that simplifies partition management tasks and helps optimize disk space usage.
-- **MiniTool Partition Wizard**
+- **[MiniTool Partition Wizard](https://github.com/rhshourav/mediUSB/tree/main/Partition_Tools/MiniTool_Partition_Wizard)**
   - **MiniTool_Partition_Wizard.wim**: A partition management software that provides features such as resizing, moving, merging, and splitting partitions.
-- **Paragon Hard Disk Manager**
+- **[Paragon Hard Disk Manager](https://github.com/rhshourav/mediUSB/tree/main/Partition_Tools/Paragon_Hard_Disk_Manager)**
   - **Paragon_Hard_Disk_Manager.wim**: A complete disk management solution that includes partition management, backup and recovery, and data migration tools.
-- **Parted Magic**
+- **[Parted Magic](https://github.com/rhshourav/mediUSB/tree/main/Partition_Tools/Parted_Magic)**
   - **Parted_Magic.iso**: A partition management tool that allows you to resize, copy, and move partitions. It also includes tools for disk cloning and data recovery.
-- **ShredOS**
+- **[ShredOS](https://github.com/rhshourav/mediUSB/tree/main/Partition_Tools/ShredOS)**
   - **ShredOS.img**: A bootable disk designed for secure data deletion. It uses the `nwipe` tool to securely erase data from hard drives and SSDs.
 
 ## Password Removal
