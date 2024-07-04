@@ -80,12 +80,12 @@
 - **[ShredOS](https://github.com/rhshourav/mediUSB/tree/main/Partition_Tools/ShredOS)**
   - **ShredOS.img**: A bootable disk designed for secure data deletion. It uses the `nwipe` tool to securely erase data from hard drives and SSDs.
 
-## Password Removal
-- **Jayro's Lockpick**
+## [Password Removal](https://github.com/rhshourav/mediUSB/tree/main/Password_Removal)
+- **[Jayro's Lockpick](https://github.com/rhshourav/mediUSB/tree/main/Password_Removal/Jayro's_Lockpick)**
   - **Lockpick.wim**: A toolkit for resetting or bypassing Windows passwords, allowing you to gain access to locked accounts.
 
-## Windows Recovery
-- **Windows 10 Recovery**
+## [Windows Recovery](https://github.com/rhshourav/mediUSB/tree/main/Windows_Recovery)
+- **[Windows 10 Recovery](https://github.com/rhshourav/mediUSB/tree/main/Windows_Recovery/Windows_10_Recovery)**
   - **Windows_10_Recovery.wim**: A recovery environment for Windows 10 that helps you troubleshoot and repair issues with your Windows installation.
-- **Windows 11 Recovery**
+- **[Windows 11 Recovery](https://github.com/rhshourav/mediUSB/tree/main/Windows_Recovery/Windows_11_Recovery)**
   - **Windows_11_Recovery.wim**: A recovery environment for Windows 11 that provides tools to diagnose and fix problems with your Windows installation.
