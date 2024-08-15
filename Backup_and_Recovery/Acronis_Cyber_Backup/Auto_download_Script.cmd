@@ -13,6 +13,7 @@ set /a end=4
 for /l %%i in (%start%, 1, %end%) do (
     :: Format part number with leading zeros (if needed)
     set part_number=%%i
+    if %%i lss 10 (set part_number=%%i)
     if %%i geq 10 if %%i lss 18 (set part_number=%%i)
 
     :: Determine file extension based on part number
